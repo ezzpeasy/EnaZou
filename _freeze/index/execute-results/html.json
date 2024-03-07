@@ -1,8 +1,8 @@
 {
-  "hash": "f3b89dd3f76f9f9be8b2ea6b7ef8754a",
+  "hash": "800bc0843c78ca344af9c1232523292f",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Ena Zou\"\n---\n\n\n## Title\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntoc: false\nabout: \n  template: trestles\nimage: Headshot.jpg\n---\n\n\n## Title\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

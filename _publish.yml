@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0a85dcb2-ae98-4e5d-ae48-e072db14a22b
+      url: 'enazou.netlify.app'
