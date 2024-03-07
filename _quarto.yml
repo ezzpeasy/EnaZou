@@ -9,11 +9,15 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
+      - href: experience.qmd
+        text: Experience
+      - href: Projects.qmd
         text: Projects
-
+  page-footer:
+    right: "&copy; 2024 Ena Zou "
+    
 format:
-  html:
+  html: 
     theme: cosmo
     css: styles.css
     toc: true
