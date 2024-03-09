@@ -1,7 +1,37 @@
 ---
 toc: false
-image: Headshot2.jpg
+image: Headshot2.JPG
 about:
   template: trestles
 comments: false
 ---
+<title>Cover Page</title>
+<style>
+  body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            background-image: linear-gradient(to left, yellow, orange);
+            color: black;
+        }
+        h1 {
+            font-weight: bold;
+            font-size: 170px; 
+        }
+        .content-wrapper img {
+        order: 1;  }
+        #search-bar {
+        display: none;
+        }
+    </style>
+</head>
+
+<body>
+  <div class="text-content">
+  <h1>ENA ZOU</h1>
+  <h4>Data scientist, entrepreneur, runner, fashion designer, and music lover.</h4>
+  </div>
+</body>
+</html>
+

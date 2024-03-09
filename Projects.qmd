@@ -1,16 +1,15 @@
 
----
-listing:
-  - id: Projects-listing
-    contents:
-      - "/Projects/*.qmd"
-    type: table
-    fields:
-      - title
-    categories: false
----
+<div style="font-size: 35px; font-weight: bold; font-style: italic;">Some things I've worked on...</div>
+<br>
 
-Below are some of the projects I have partaken in:
+ <a href="https://drive.google.com/file/d/1DswtmfPExZBgxS2FVO_QpBCmCOIaI-Li/view?usp=sharing" style="font-size: 25px; font-weight: bold;">Predicting U.S. Car Prices</a>
+<br> Identified significant factors in determining car prices for Geely Auto to project pricing dynamics for their automobiles. Performed multiple linear regression, feature engineering, and validation through regression diagnostics to ensure the robustness of the model and reliability of its forecasts.
 
-:::posts-listing
-:::
+ <a href="https://ucladatares.medium.com/exploring-the-right-way-to-play-wordle-bc618a92cefe" style="font-size: 25px; font-weight: bold;">The Right Way to Play Wordle</a>
+<br> Investigated optimal starting words, strategies for subsequent guesses, and awareness of duplicate letters to enhance players' chances of success in the game.
+
+  <a href="https://ucladatares.medium.com/olympics-past-and-future-766af6cd7f20" style="font-size: 25px; font-weight: bold;">Olympics: Past and Future</a>
+<br> Explored challenges in predicting medal counts at the Beijing 2022 Winter Olympics, emphasizing factors such as previous Olympic performance, GDP growth, and HDI on countries' success, while also considering the influence of home-field advantage.
+
+<a href="https://drive.google.com/file/d/1FITTNttdqXH3ZcUx64k0Gicqmels5tot/view?usp=sharing" style="font-size: 25px; font-weight: bold;">Forecasting Severity of U.S. Car Crashes</a>
+<br>Performed data cleaning, manipulation, feature engineering, and machine learning model selection to build a classification model predicting the severity of a car crash, contributing to road safety efforts.

@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ena Zou",
+    "section": "",
+    "text": "Hi! My name is Ena and I’m a senior at UCLA studying Statistics & Data Science. My current interests lie in exploring how artificial intelligence can be leveraged in data transparency, fashion, and music tech. I recently started working at Superfan, a music social media app that uses AI and classification techniques to create meaningful connections among Spotify users.\nSome of my other passions include entrepreneurship and fashion. At 16 I started my own clothing company, Reverie, a line of 12 ready to wear pieces. With the emergence of AI, NFTs, and the metaverse, I am also interested in how fashion design can be a personalized experience for the wearer.\nAnd when I’m not in class or working, I’m likely running! I ran the Amsterdam Marathon in 2023 and plan on completing the Los Angeles Marathon in 2024."
+  },
+  {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Ena Zou",
     "section": "",
-    "text": "Below are some of the projects I have partaken in:\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\nundefined\n\n\n\n\nundefined\n\n\n\n\n\n\nNo matching items"
+    "text": "Some things I’ve worked on…\n\n\nPredicting U.S. Car Prices  Identified significant factors in determining car prices for Geely Auto to project pricing dynamics for their automobiles. Performed multiple linear regression, feature engineering, and validation through regression diagnostics to ensure the robustness of the model and reliability of its forecasts.\nThe Right Way to Play Wordle  Investigated optimal starting words, strategies for subsequent guesses, and awareness of duplicate letters to enhance players’ chances of success in the game.\nOlympics: Past and Future  Explored challenges in predicting medal counts at the Beijing 2022 Winter Olympics, emphasizing factors such as previous Olympic performance, GDP growth, and HDI on countries’ success, while also considering the influence of home-field advantage.\nForecasting Severity of U.S. Car Crashes Performed data cleaning, manipulation, feature engineering, and machine learning model selection to build a classification model predicting the severity of a car crash, contributing to road safety efforts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nENA ZOU\n",
     "section": "",
-    "text": "Current CV"
+    "text": "Cover Page\n\n\n\n\nENA ZOU\n\n\nData scientist, entrepreneur, runner, fashion designer, and music lover."
   }
 ]
