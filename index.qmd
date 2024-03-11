@@ -1,6 +1,6 @@
 ---
 toc: false
-image: Headshot2.JPG
+image: Headshot2Ed.JPG
 about:
   template: trestles
 comments: false

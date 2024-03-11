@@ -1,6 +1,6 @@
 ---
 title: "Ena Zou"
-image: Headshot2.jpg
+image: Headshot2Ed.jpg
 about:
   template: trestles
   links:
