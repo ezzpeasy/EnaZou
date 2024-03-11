@@ -30,7 +30,7 @@ comments: false
 <body>
   <div class="text-content">
   <h1>ENA ZOU</h1>
-  <h4> Statistics @UCLA, Data scientist, entrepreneur, runner, fashion designer, and music lover.</h4>
+  <h4> Statistics @UCLA, data scientist, entrepreneur, runner, fashion designer, and music lover.</h4>
   </div>
 </body>
 </html>

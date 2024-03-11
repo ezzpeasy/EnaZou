@@ -8,7 +8,7 @@ about:
       text: LinkedIn
       url: "https://www.linkedin.com/in/ena-zou-59830b19b/"
     - icon: envelope-fill
-      text: email
+      text: Email
       url: mailto:enazou@ucla.edu
       
 comments: false
