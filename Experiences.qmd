@@ -1,0 +1,12 @@
+
+<div style="font-size: 35px; font-weight: bold; font-style: italic;">Where have I worked?</div>
+<br>
+
+<a style="font-size: 25px; font-weight: bold; color: #c0041c;"> Founder & CEO of @Reverie </a>
+<br> Designed a collection of 12 clothing pieces, oversaw production processes with a manufacturer, formulated marketing materials and strategies, and launched an E-commerce website to establish the brand's online presence. Generated over $1,000 in sales during the first year of active business operations, and successfully collaborated with influencer Emily Mariko
+
+<a style="font-size: 25px; font-weight: bold; color: #c0041c;"> Technology Consultant Intern @Ernst & Young </a>
+<br> Implemented and designed Generative AI solutions for accounting, leveraging OpenAI, Langchain, and PandasAI to detect discrepancies between sub-ledgers and general ledgers. Created heatmaps and synthesized end-to-end GenAI pipelines for GenAI’s finance marketing client pitches.
+
+<a style="font-size: 25px; font-weight: bold; color: #c0041c;"> Data Engineer Intern @Rubrik </a>
+<br> Developed lead and account scoring models to enhance customer assessment processes by engineering data pipelines and performing data analysis with SQL and Snowflake. Executed ARIMA time series analysis in R to bolster the booking projection model.

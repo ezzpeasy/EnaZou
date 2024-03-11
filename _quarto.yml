@@ -10,6 +10,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: Experiences.qmd
+        text: Experiences
       - href: Projects.qmd
         text: Projects
   page-footer:

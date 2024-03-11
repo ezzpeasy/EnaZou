@@ -6,24 +6,24 @@ body {
 }
 ::selection {
     background-color: black;
-    color: gold; /* Optional: change the text color when highlighted */
+    color: gold;
 }
 a {
-    color: brown; /* Set the color of all anchor elements to brown */
+    color: brown;
 }
 
 .navbar {
-    background-color: black; /* Set the background color of the navbar to black */
-    color: white; /* Set the text color of the navbar to white */
+    background-color: black; 
+    color: white;
 }
 
 .navbar a {
-    color: white; /* Set the color of the links in the navbar to white */
+    color: white; 
 }
 
 .navbar a:hover {
-    color: #c0041c; /* Set the color of the link text to orange when hovered */
-    background-color: black; /* Set the background color of the link when hovered */
+    color: #c0041c; 
+    background-color: black;
 }
 
 .nav-footer{

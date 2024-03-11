@@ -1,5 +1,5 @@
 
-<div style="font-size: 35px; font-weight: bold; font-style: italic;">Some things I've worked on...</div>
+<div style="font-size: 35px; font-weight: bold; font-style: italic;">Things I've been up to...</div>
 <br>
 
  <a href="https://drive.google.com/file/d/1DswtmfPExZBgxS2FVO_QpBCmCOIaI-Li/view?usp=sharing" style="font-size: 25px; font-weight: bold;">Predicting U.S. Car Prices</a>
