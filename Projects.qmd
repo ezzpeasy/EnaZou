@@ -9,7 +9,7 @@
 <br> Investigated optimal starting words, strategies for subsequent guesses, and awareness of duplicate letters to enhance players' chances of success in the game.
 
   <a href="https://ucladatares.medium.com/olympics-past-and-future-766af6cd7f20" style="font-size: 25px; font-weight: bold;">Olympics: Past and Future</a>
-<br> Explored challenges in predicting medal counts at the Beijing 2022 Winter Olympics, emphasizing factors such as previous Olympic performance, GDP growth, and HDI on countries' success, while also considering the influence of home-field advantage.
+<br> Predicted medal counts for each country at the Beijing 2022 Winter Olympics, with a focus on factors like past Olympic performance, economic growth (measured by GDP), Human Development Index (HDI), and any advantage gained from hosting the Olympics in their home country.
 
 <a href="https://drive.google.com/file/d/1FITTNttdqXH3ZcUx64k0Gicqmels5tot/view?usp=sharing" style="font-size: 25px; font-weight: bold;">Forecasting Severity of U.S. Car Crashes</a>
 <br>Performed data cleaning, manipulation, feature engineering, and machine learning model selection to build a classification model predicting the severity of a car crash, contributing to road safety efforts.
